@@ -11,7 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifernandoxavier&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-##
 
  <!--<h4>Atualmente estudando/trabalhando</h4>
     <div style="display: inline_block">
