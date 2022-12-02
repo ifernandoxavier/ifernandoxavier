@@ -13,10 +13,10 @@
   
 ##
 
- <h4>Atualmente estudando/trabalhando</h4>
+ <!--<h4>Atualmente estudando/trabalhando</h4>
     <div style="display: inline_block">
       <img align="center" alt="xavier-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-      <img align="center" alt="xavier-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
+      <img align="center" alt="xavier-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />-->
     
   <!-- <h4>Já passaram pelo meu repertório</h4>
     <div style="display: inline_block>
