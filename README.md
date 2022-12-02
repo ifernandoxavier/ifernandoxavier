@@ -6,7 +6,7 @@
     <a href="mailto:ffernandoxavier@outlook.com" target="_blank">  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 </div><br>
 
-<div align="center">
+<div>
   <a href="https://github.com/ifernandoxavier">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifernandoxavier&layout=compact&langs_count=7&theme=dark"/>
 </div>
